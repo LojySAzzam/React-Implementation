@@ -1,7 +1,9 @@
 import Navbar from "../components/navbar";
 import Nominee from "../components/nominee";
-import VoteNominee from  "../components/voteNominee"
+import VoteNominee from  "../components/voteNominee";
 import styles from "./backend.module.css";
+import Menu from "../components/menu";
+import CurrentVotes from "../components/current.votes";
 
 export default function Home() {
   return (
