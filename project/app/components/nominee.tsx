@@ -1,4 +1,3 @@
-
 import styles from "./nominee.module.css"
 import Image from 'next/image'
 

@@ -1,6 +1,7 @@
 import styles from "./prize.module.css"
 
 
+
 type prizeProps ={
     rank : string;
     prize: string;
