@@ -1,4 +1,4 @@
-#mainheader { 
+.mainHeader { 
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -10,29 +10,28 @@
     font-size: small;
   }
   
-  #mainheader nav ul {
+.mainHeader nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-  }
-  
-  #mainheader nav ul li {
+}
+
+.mainHeader nav ul li {
     float: left;
-  }
-  
-  #mainheader nav ul li h3 {
+}
+
+.mainHeader nav ul li h3 {
     margin: 0;
     padding: 15px;
     display: block;
     text-align: center;
-  }
-  
-  #mainheader nav ul li a {
+}
+
+.mainHeader nav ul li a {
     display: block;  
     text-decoration: none;
     color: black;
     font-weight: bold;
     padding: 17.75px;
-  }
-  
+}
